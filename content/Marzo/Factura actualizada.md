@@ -1,0 +1,15 @@
+---
+Sistema: Control vehicular
+Fecha_de_inicio: 2025-03-10T00:00:00.000-06:00
+Tipo_de_solicitud: bug/fix
+Estatus: Sin respuesta
+Fecha_termino: 2025-03-18T00:00:00.000-06:00
+Nota: "[[1.Sistemas]]"
+Mes: Marzo
+---
+---
+**Reportan** HICE UN REGISTRO PARA DAR DE ALTA MI VEHICULO NUEVO Y ME GENERO LA LINEA DE CAPTURA, PERO HICE ACTUALIZACION DE DATOS FISCALES Y SE MODIFICO LA FACTURA DEL CARRO, LA FACTURA QUE SUBI A SEMOVI ES LA FACTURA CON LOS DATOS ANTERIORES, ESTO AFECTARA,TENGO LA DUDA POR ESO NO HE HECHO EL PAGO. PUEDE HACER LA ACTUALIZACION DE LA FACTURA O QUE OUEDO HACER. GRACIAS
+
+**Pendiente, se solicitaron facturas XML**
+
+**Resolución:** No hubo respuesta por parte del usuario al solicitar XML
